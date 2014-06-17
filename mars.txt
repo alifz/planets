@@ -3,3 +3,5 @@ but it has almost as much land area.
 It's quite red and birght in the sky.
 Last month it was close to the Moon in the sky.
 Trying to create an intentional error.
+Fixed the intentional error.
+
