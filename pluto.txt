@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is abotu pluto.
 I have added another line regarding pluto.
+=======
+This is about pluto.
+>>>>>>> f140f7de14fa6fc23d58e858e8bea7a61bb47779
 
